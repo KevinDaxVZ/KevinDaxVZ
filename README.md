@@ -92,7 +92,8 @@
   ---
 
   <p align="center">
-    <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+     <!-- <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" /> -->
+    <img src="https://raw.githubusercontent.com/KevinDaxVZ/KevinDaxVZ/output/github-contribution-grid-snake-dark.svg" />
   </p>
 
   <p align="center">
