@@ -1,5 +1,5 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRzd2NzNnJqdTh5cmtsbmp3YjJ2NnA3Z3hyem02eTBtejR1cnc1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif" width="100%" height="auto"/>
+  <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRzd2NzNnJqdTh5cmtsbmp3YjJ2NnA3Z3hyem02eTBtejR1cnc1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif" width="75%" height="auto"/>
   <div align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=700&lines=Hi!+I'm+KevinDaxVZ+%3C3;Python+Expert+%7C+8%2B+Years;Web+Hacker+%7C+Pentester;AI+%26+MCP+Builder!" alt="Title" />
