@@ -7,7 +7,7 @@
     </a>
   </div>
 
-  <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+  <img width="28%" align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM1b3g2bTlheHRxcXRnM3l6Y2o3aW85bnJ0b2V4dnpxcHk1YnlpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif">
 
   <h2 align="left">
     Hi there
