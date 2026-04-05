@@ -5,8 +5,10 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=700&lines=Hi!+I'm+KevinDaxVZ+%3C3;Python+Expert+%7C+8%2B+Years;Web+Hacker+%7C+Pentester;AI+%26+MCP+Builder!" alt="Title" />
     </a>
   </div>
+
+  <img width="28%" align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTcwbXEyY3JmY2U5YTJiaWJjazRtaHNxeml2d25yM2dycWdubTY4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif">
+  
   <h2 align="left">
-    <img width="28%" align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTcwbXEyY3JmY2U5YTJiaWJjazRtaHNxeml2d25yM2dycWdubTY4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif">
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
   </h2>
