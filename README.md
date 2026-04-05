@@ -6,7 +6,7 @@
     </a>
   </div>
 
-  <img width="28%" align='right' src="https://64.media.tumblr.com/c407e97fdf0814e494af283fde97b0b7/tumblr_mk54q0koVV1rjvtbjo1_500.gif">
+  <img width="28%" align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTcwbXEyY3JmY2U5YTJiaWJjazRtaHNxeml2d25yM2dycWdubTY4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif">
 
   <h2 align="left">
     Hi there
