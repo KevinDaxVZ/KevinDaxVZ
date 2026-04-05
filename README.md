@@ -84,12 +84,10 @@
 
   <h2>📊 GitHub Stats</h2>
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinDaxVZ&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&show_icons=true)](https://github.co
-  m/KevinDaxVZ)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinDaxVZ&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&show_icons=true)](https://github.com/KevinDaxVZ)
   [![GitHub Streak](https://streak-stats.demolab.com?user=KevinDaxVZ&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDaxVZ&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)](https://gi
-  thub.com/KevinDaxVZ)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDaxVZ&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)](https://github.com/KevinDaxVZ)
 
   ---
 
